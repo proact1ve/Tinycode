@@ -115,7 +115,7 @@ def Extract(str1):
 # 原图
 old = "./images/eva.bmp"
 # 处理后输出的图片路径
-new = "./images/eva.bmp"
+new = "./images/eva_test.bmp"
 # 需要隐藏的信息
 flag = "FLAGFLAGFLAGFLAGFLAGFLAGFLAGFLAG"
 #用lsb对图片进行信息隐藏
